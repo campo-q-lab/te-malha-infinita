@@ -145,3 +145,19 @@ o log deve ser reprodutível.
 
 Licença ainda não definida (por padrão: direitos reservados).  
 Para colaboração pública, inclua um arquivo **`LICENSE`**.
+
+> ✅ **Configuração de referência (v0.3)**  
+> Use esta configuração para reproduzir os logs/prints citados no README e comparar resultados.  
+> - **seed:** `<PREENCHER>`  
+> - **N:** `<PREENCHER>`  
+> - **rho:** `<PREENCHER>`  
+> - **acceptU_min (A_strict):** `0.0`  
+> - **acceptU_min (A_soft):** `-0.05`  
+> - **REL caro (B_soft_HIGH_REL):** `rel_base` e `rel_scale` ×`10`  
+> - **parâmetros principais:** `cP=<PREENCHER>`, `cD=<PREENCHER>`, `lambda_rel=<PREENCHER>`, `lambda_size=<PREENCHER>`  
+> *(Complete os campos acima com os valores “default” do notebook. Se você mudar qualquer um deles, o regime pode mudar.)*
+
+> 🛡️ **O que isso não é**  
+> Não é cosmologia nem simulação física completa; é um **toy model operacional** para observar a dinâmica “distinção + relação + custo”.
+
+
