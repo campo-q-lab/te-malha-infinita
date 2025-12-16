@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se você usar este repositório, por favor cite-o."
+title: "TE Ponderar — Malha Infinita (Modo Laboratório)"
+type: software
+authors:
+  - family-names: "Castro"
+    given-names: "Alessandro Quadros de Varanda"
+version: "v0.3"
+date-released: "2025-12-15"
+repository-code: "https://github.com/campo-q-lab/te-ponderar"
+url: "https://github.com/campo-q-lab/te-ponderar"
+keywords:
+  - "Teoria do Evento"
+  - "Campo Q"
+  - "ontologia operacional"
+  - "toy model"
+  - "simulação"
+license: "Proprietary"
